@@ -2,7 +2,7 @@
 Đồ án cuối kỳ môn Xử lý ngôn ngữ tự nhiên (UEH)
 
 # Mô tả bộ dữ liệu
-Bộ dữ liệu Women's Clothing E-Commerce chứa thông tin đánh giá của khách hàng về sản phẩm, được sử dụng cho các bài toán NLP (Sentiment Analysis), bao gồm 10 thuộc tính và 23.486 dòng dữ liệu.
+Bộ dữ liệu Women's E-Commerce Clothing Reviews chứa thông tin đánh giá của khách hàng về sản phẩm, được sử dụng cho các bài toán NLP (Sentiment Analysis), bao gồm 10 thuộc tính và 23.486 dòng dữ liệu.
 Bộ dữ liệu có thể tìm thấy ở [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 
 - **Clothing ID**: Mã sản phẩm
