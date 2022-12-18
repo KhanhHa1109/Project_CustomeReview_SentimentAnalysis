@@ -1,4 +1,4 @@
-# Project_CustomeReview_SentimentAnalysis
+# Project_CustomerReview_SentimentAnalysis
 Đồ án cuối kỳ môn Xử lý ngôn ngữ tự nhiên (UEH)
 
 # Mô tả bộ dữ liệu
